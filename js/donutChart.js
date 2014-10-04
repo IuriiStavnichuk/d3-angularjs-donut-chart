@@ -1,5 +1,3 @@
-angular.module('MainWebApp', [ 'ngResource','donutChart']);
-
 angular.module('donutChart',[])
     .directive("donutChart", function ( $resource ) {
         return {
