@@ -1,6 +1,6 @@
 ##D3 driven animated and reusable donut chart wrapper into AngularJS directive - [live demo](http://iuriistavnichuk.github.io/d3-angularjs-donut-chart/).
 
-Because the data is retrieved from the external JSON file the developer does not need to worry about generating data within the program. This makes the module more flexible and maintainable so this approach allows us to place uncountable amount of these charts on the page in the neat way, without polluting the markup.
+Because the data is retrieved from the external JSON file the developer does not need to worry about generating data within the program. This makes the module more flexible and maintainable so this approach allows us to place uncountable amount of these charts on the page in the neat way, without polluting your HTML.
 
 ### How to install
  + Copy `donutChart.js` wherever you want
