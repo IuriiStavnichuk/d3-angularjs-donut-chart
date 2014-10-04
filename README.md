@@ -15,10 +15,8 @@ A pie chart is called using this syntax :
 
 The pie chart directive attribute : `path-to-json`.
 
-#### path-to-json
-Your data must be an array. Depending whether you wan a pie/donut or a gauge, the array can contain at least two rows, or only one.
 
-##### path-to-json
+#### path-to-json
 Your data must be a JSON object.
 ```js
 {
